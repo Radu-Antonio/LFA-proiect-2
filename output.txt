@@ -1,0 +1,18 @@
+Stare initiala: 0
+Stari finale: 24 12 4 10 0 124 
+Tranzitii:
+0 cu a in 12
+0 cu c in 4
+12 cu a in 12
+12 cu b in 10
+12 cu c in 24
+4 cu a in 4
+10 cu a in 12
+10 cu b in 10
+10 cu c in 24
+24 cu a in 124
+24 cu b in 0
+24 cu c in 4
+124 cu a in 124
+124 cu b in 10
+124 cu c in 24
